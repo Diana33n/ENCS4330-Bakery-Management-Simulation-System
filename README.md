@@ -14,6 +14,7 @@ The system uses:
 * 📡 **Signals** for process control (pause/resume, termination)
 * 🎨 **OpenGL visualization** for a live view of bakery activity
 
+
 ---
 
 ## 🚀 Features
